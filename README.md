@@ -30,9 +30,15 @@ Finally, this project successfully applied data science techniques and tools to 
 If Brazilian authorities would like to address the various sociocultural and economic issues that can be caused by favelas, we would recommend them to utilize our geographical clustering model in order for them to find potential residential areas of concern. Our clusters generated from our model were able to accurately find the true locations of favelas.
 
 By:
+
 Kevin Chiang
+
 Romil Shah
+
 Leo Dai
+
 Aryan Barik
+
 Krutik Doshi
+
 Salman Alsabah
